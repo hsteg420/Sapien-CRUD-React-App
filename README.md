@@ -3,8 +3,8 @@
 A React App where the user should be able to add, edit, delete or view(CRUD) the clients in the table. The user can create, edit, view and delete the leads from the table. When a new client is added, open a modal where he can fill the form and submit. 
 
 <div align="center">
-    <img src="/Screenshot (703).png"</img> 
-    <img src="/Screenshot (704).png"</img> 
+    <img src="/Screenshot (703).png" width="700px"</img> 
+    <img src="/Screenshot (704).png" width="700px"</img> 
 
 </div>
 
